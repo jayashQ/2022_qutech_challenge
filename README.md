@@ -15,25 +15,11 @@ In the BB84 protocol, Alice can transmit a random secret key to Bob by sending a
 Visit our webapp ... for more details !
 
 
-## :pushpin: Folder Structure
-In this repository you'll find the following parts: 
-
-| Folder        | Contains      | 
-| ------------- |-------------|
-|        |  |
-|      |      |
-|  |        |
-|   |       |
-|   |        |
-|  |       |
-|  |        |
-
-
 
 # :star: Our Team :  
 
 
-<a href="https://github.com/">Arjun Bhamra</a>
+<a href="https://github.com/abhamra">Arjun Bhamra</a>
 
 <a href="https://github.com/">Jayash Panigrahi</a>
 
