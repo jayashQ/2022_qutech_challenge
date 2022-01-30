@@ -23,7 +23,7 @@ Go through qkd.ipynb chronologically, you should run through the imports and aut
 
 <a href="https://github.com/abhamra">Arjun Bhamra</a>
 
-<a href="https://github.com/">Jayash Panigrahi</a>
+<a href="https://github.com/jayashQ">Jayash Panigrahi</a>
 
 <a href="https://github.com/Ray16">Ruijie Zhu</a>
 
