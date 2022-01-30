@@ -14,6 +14,8 @@ In the BB84 protocol, Alice can transmit a random secret key to Bob by sending a
 
 Visit our webapp ... for more details !
 
+# Running the code:
+Go through qkd.ipynb chronologically, you should run through the imports and authentication to verify its functionality, and then run the BB84 runner. After that, run the HuffmanEncoding code and finally run the code that combines these two tools into one set of cells. You should be able to input a string, have it be converted into a list for QKD, and then BB84 will be applied to it. After verifying the security of the code, we run the Huffman decoding algorithm and regain the original string input.
 
 
 # :star: Our Team :  
@@ -23,7 +25,7 @@ Visit our webapp ... for more details !
 
 <a href="https://github.com/">Jayash Panigrahi</a>
 
-<a href="https://github.com/">Ruijie Zhu</a>
+<a href="https://github.com/Ray16">Ruijie Zhu</a>
 
 <a href="https://github.com/Innanov">Nouhaila Innan</a>
 
