@@ -1,23 +1,48 @@
-# QuTech Challenges @ MIT iQuHACK 2022
-
-<p align="left">
-  <a href="https://qutech.nl" target="_blank"><img src="https://user-images.githubusercontent.com/10100490/151484481-7cedb7da-603e-43cc-890c-979fb66aeb60.png" width="25%" style="padding-right: 0%"/></a>
-  <a href="https://iquhack.mit.edu/" target="_blank"><img src="https://user-images.githubusercontent.com/10100490/151647370-d161d5b5-119c-4db9-898e-cfb1745a8310.png" width="10%" style="padding-left: 0%"/> </a>
+# Quantum Chatting
+Quantum Chatting is a webapp that use quantum key distribution (the BB84 Protocol + Huffman Coding) to send an encrypted message between people.
+<p align="center">
+  <img width="500" height="500" src="https://github.com/Innanov/2022_qutech_challenge/blob/main/Quantum%20Chatting/Quantum%20Chatting.png?raw=true">
 </p>
 
+## :pushpin: About
+Quantum key distribution provides a way of distributing and sharing secret keys that are necessary for cryptographic protocols. The importance here is in ensuring that they remain private, i.e. between the communicating parties. . 
+In the BB84 protocol, Alice can transmit a random secret key to Bob by sending a string of photons with the secret key is encoded in their polarization. The no-cloning theorem guarantees that Eve cannot measure these photons and transmit them to Bob without disturbing the photon’s state in a detectable way. 
 
-## Description 
+<p align="center">
+  <img width="500" height="500" src="https://user-images.githubusercontent.com/64653897/151697661-49b42d9e-5c85-41d6-8f16-57e19c6daf48.png">
+</p>
 
-For the 2022 edition of the iQuHack (interdisciplinary Quantum HACKathon), [QuTech](https://qutech.nl) has partnered with the team at MIT to propose 2 challenges, hosted in our own multi-hardware Quantum Technology platform, [Quantum Inspire](https://www.quantum-inspire.com). These aim to draw participants to the challenges at the heart of our mission: to develop scalable prototypes of a quantum computer and an inherently safe quantum internet, based on the fundamental laws of quantum mechanics.
-
-To qualify for the QuTech Division Challenge, participants should submit a project that addresses either the proposed Quantum Error Correction (QEC) challenge or the Quantum Key Distribution (QKD) challenge. Detailed descriptions of these two challenges and their goals are available in the documents linked below (hosted in this repository):
-
-- [Quantum Error Correction Challenge](https://github.com/iQuHACK/2022_qutech_challenge/blob/main/QuantumErrorCorrectionChallenge.pdf)
-- [Quantum Key Distribution Challenge](https://github.com/iQuHACK/2022_qutech_challenge/blob/main/QuantumKeyDistrubutionChallenge.pdf)
+Visit our webapp ... for more details !
 
 
-## Scoring and Submission
+## :pushpin: Folder Structure
+In this repository you'll find the following parts: 
 
-**Rubric:** https://docs.google.com/document/u/1/d/e/2PACX-1vR5PVoInN_Fi42lIOchhblgGBPblgNyouj1XHukonZ4sdqY-p5ulS9TxdzvddEcDNFc5k_6teFyKzXv/pub
+| Folder        | Contains      | 
+| ------------- |-------------|
+|        |  |
+|      |      |
+|  |        |
+|   |       |
+|   |        |
+|  |       |
+|  |        |
 
-**Submission:** Please visit https://iquhack.mit.edu/ for details on how to submit your project.
+
+
+# :star: Our Team :  
+
+
+<a href="https://github.com/">Arjun Bhamra</a>
+
+<a href="https://github.com/">Jayash Panigrahi</a>
+
+<a href="https://github.com/">Ruijie Zhu</a>
+
+<a href="https://github.com/Innanov">Nouhaila Innan</a>
+
+
+
+ 
+
+:pushpin: _This project is upgraded under <a href="https://www.iquise.mit.edu/iQuHACK/2022-01-28">iQuHACK 2022</a>_ 
