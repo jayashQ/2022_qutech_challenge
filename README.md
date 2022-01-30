@@ -30,7 +30,7 @@ Go through qkd.ipynb chronologically, you should run through the imports and aut
 <a href="https://github.com/Innanov">Nouhaila Innan</a>
 
 
-# :star: Our iQuHack 2022 Experience:
+## Our iQuHack 2022 Experience:
 During the 1-day hackathon, we brainstormed ideas and made progress together. We explored the world of quantum computing with curiosity and joy. We are proud to present our final model to the world, which added lossless data compression, which allows for efficient data transfer.
  
 
